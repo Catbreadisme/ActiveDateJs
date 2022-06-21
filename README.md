@@ -8,6 +8,7 @@ Import ActiveDate.js into your project and call **currentTime** to get the curre
 
 
 You can also use:
+
 currentTime.CurrentYear
 currentTime.CurrentMonth
 currentTime.CurrentDay
